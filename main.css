@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+}
+.navbar {
+    background:#393d37;
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #000;
+}
+.main {
+    padding: 2%;
+}
+.footer {
+    background:#393d37;
+    color: #fff;
+}
